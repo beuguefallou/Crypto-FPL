@@ -45,8 +45,8 @@
 - Truffle v5.0.7 (core: 5.0.7)
 
 ### Setup
-- Clone the repo using `git clone https://github.com/nichanank/crypto-fpl.git`
-- `cd crypto-fpl` and clone the client repo using `git clone https://github.com/nichanank/crypto-fpl-client.git`
+- Clone the repo using `git clone https://github.com/beuguefallou/crypto-fpl.git`
+- `cd crypto-fpl` and clone the client repo using `git clone https://github.com/beuguefallou/crypto-fpl-client.git`
 - Have a local blockchain running on port 7545 (e.g. using [Ganache](https://www.trufflesuite.com/ganache))
 - From the main project folder (crypto-fpl), deploy contracts with `truffle migrate --reset`
   - If you get an `at Deployer._preFlightCheck` error upon migration, delete the `contracts` folder at `cryptofpl-client/src/contracts` folder and try `truffle migrate --reset` again
