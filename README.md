@@ -1,6 +1,6 @@
 # ⚽️ Crypto Fantasy Premier League
 
- Welcome to Crypto FPL, a light PvP Fantasy Premier League game that runs on the Ethereum blockchain. For the demo client, please see the [client repo](https://github.com/nichanank/crypto-fpl-client)
+ Welcome to Crypto FPL, a light PvP Fantasy Premier League game that runs on the Ethereum blockchain. For the demo client, please see the [client repo](https://github.com/beuguefallou/crypto-fpl-client)
  
  ## 🎮 The Game
 
