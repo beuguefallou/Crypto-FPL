@@ -5787,7 +5787,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-08-02T14:24:57.738Z",
+  "updatedAt": "2025-08-02T14:26:46.744Z",
   "devdoc": {
     "details": "Methods assume a deterministic generation of URI based on token IDs.     Methods also assume that URI uses hex representation of token IDs.",
     "methods": {

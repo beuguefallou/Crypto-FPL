@@ -1364,7 +1364,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-08-02T14:24:57.772Z",
+  "updatedAt": "2025-08-02T14:26:46.792Z",
   "devdoc": {
     "methods": {
       "metaSafeBatchTransferFrom(address,address,uint256[],uint256[],bool,bytes)": {

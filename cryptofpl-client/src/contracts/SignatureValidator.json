@@ -7420,7 +7420,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-08-02T14:24:57.821Z",
+  "updatedAt": "2025-08-02T14:26:46.997Z",
   "devdoc": {
     "details": "Contains logic for signature validation. Signatures from wallet contracts assume ERC-1271 support (https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1271.md) Notes: Methods are strongly inspired by contracts in https://github.com/0xProject/0x-monorepo/blob/development/",
     "methods": {

@@ -6918,7 +6918,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-08-02T14:24:57.075Z",
+  "updatedAt": "2025-08-02T14:26:45.658Z",
   "devdoc": {
     "methods": {
       "balanceOf(address,uint256)": {
